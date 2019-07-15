@@ -1,0 +1,5 @@
+git bash로 main.py 실행
+
+일수 hw문제수 ws문제수
+
+끝
